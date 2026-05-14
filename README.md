@@ -1,0 +1,14 @@
+# Simply Recipes
+- A simple and responsive recipe application that help users explore and discover different meals easily.
+- ## Features
+- Browse recipe collections
+- Recipe category section
+- Interactive recipe cards
+- Responsive design
+- Clean and modern UI
+- Simple and user-friendly interface
+- ## Technology Used
+- HTML
+- CSS
+- ## Author
+- Austine
