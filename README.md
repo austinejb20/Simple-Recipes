@@ -1,5 +1,5 @@
 # Simply Recipes
-- A simple and responsive recipe application that help users explore and discover different meals easily.
+ A simple and responsive recipe application that help users explore and discover different meals easily.
 - ## Features
 - Browse recipe collections
 - Recipe category section
